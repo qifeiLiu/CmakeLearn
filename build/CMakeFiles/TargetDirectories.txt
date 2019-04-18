@@ -1,0 +1,6 @@
+/root/CmakeLearn/build/CMakeFiles/edit_cache.dir
+/root/CmakeLearn/build/CMakeFiles/rebuild_cache.dir
+/root/CmakeLearn/build/CMakeFiles/Demo.dir
+/root/CmakeLearn/build/math/CMakeFiles/edit_cache.dir
+/root/CmakeLearn/build/math/CMakeFiles/rebuild_cache.dir
+/root/CmakeLearn/build/math/CMakeFiles/MathFunctions.dir
