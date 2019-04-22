@@ -1,6 +1,16 @@
+/root/CmakeLearn/build/CMakeFiles/test.dir
 /root/CmakeLearn/build/CMakeFiles/edit_cache.dir
 /root/CmakeLearn/build/CMakeFiles/rebuild_cache.dir
+/root/CmakeLearn/build/CMakeFiles/list_install_components.dir
+/root/CmakeLearn/build/CMakeFiles/install.dir
+/root/CmakeLearn/build/CMakeFiles/install/local.dir
+/root/CmakeLearn/build/CMakeFiles/install/strip.dir
 /root/CmakeLearn/build/CMakeFiles/Demo.dir
+/root/CmakeLearn/build/math/CMakeFiles/test.dir
 /root/CmakeLearn/build/math/CMakeFiles/edit_cache.dir
 /root/CmakeLearn/build/math/CMakeFiles/rebuild_cache.dir
+/root/CmakeLearn/build/math/CMakeFiles/list_install_components.dir
+/root/CmakeLearn/build/math/CMakeFiles/install.dir
+/root/CmakeLearn/build/math/CMakeFiles/install/local.dir
+/root/CmakeLearn/build/math/CMakeFiles/install/strip.dir
 /root/CmakeLearn/build/math/CMakeFiles/MathFunctions.dir
