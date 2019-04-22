@@ -6,13 +6,19 @@
 
 #IncludeRegexTransform: 
 
+/root/CmakeLearn/config.h
+
 /root/CmakeLearn/main.cc
 stdio.h
 -
 stdlib.h
 -
+config.h
+/root/CmakeLearn/config.h
 math/MathFunctions.h
 /root/CmakeLearn/math/MathFunctions.h
+math.h
+-
 
 /root/CmakeLearn/math/MathFunctions.h
 
